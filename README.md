@@ -1,7 +1,7 @@
 <h1 align="center"> Portfólio </h1>
 
 <p align="center">
-Meu portfólio caso queira entender como eu realizei puramente com React! <br/>
+Meu portfólio realizado em React! <br/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um portifólio completo utilizando diversas habilidades adquiridas em react!
+Um portifólio completo utilizando diversas habilidades adquiridas!
 
 - [Acesse o projeto finalizado, online](https://port-igor.netlify.app/)
 
