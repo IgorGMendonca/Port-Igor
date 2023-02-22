@@ -1,0 +1,31 @@
+<h1 align="center"> Portfólio </h1>
+
+<p align="center">
+Meu portfólio caso queira entender como eu realizei puramente com React! <br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="License" src="">
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React.js
+- HTML & CSS
+
+## 💻 Projeto
+
+Um portifólio completo utilizando diversas habilidades adquiridas em react!
+
+- [Acesse o projeto finalizado, online](https://port-igor.netlify.app/)
+
+---
