@@ -10,7 +10,7 @@ Meu portfólio caso queira entender como eu realizei puramente com React! <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/IgorGMendonca/Port-Igor/blob/main/static/media/imagem-readme.jpg">
 </p>
 
 <br>
