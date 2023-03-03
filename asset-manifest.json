@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.816e74ab.css",
-    "main.js": "./static/js/main.d29275c9.js",
+    "main.js": "./static/js/main.5f19f71f.js",
     "static/media/Capa.png": "./static/media/Capa.926b621fd297dce433d9.png",
-    "static/media/project1.png": "./static/media/project1.fc1c1ede3bbedcd26a3a.png",
+    "static/media/Capa-ignite-feed.png": "./static/media/Capa-ignite-feed.89ae173191e0b54c5e8b.png",
     "static/media/perfil.jpg": "./static/media/perfil.d3429b58c54abacaccf2.jpg",
     "static/media/Profile.pdf": "./static/media/Profile.2d974726313ca15cdadc.pdf",
     "index.html": "./index.html",
     "main.816e74ab.css.map": "./static/css/main.816e74ab.css.map",
-    "main.d29275c9.js.map": "./static/js/main.d29275c9.js.map"
+    "main.5f19f71f.js.map": "./static/js/main.5f19f71f.js.map"
   },
   "entrypoints": [
     "static/css/main.816e74ab.css",
-    "static/js/main.d29275c9.js"
+    "static/js/main.5f19f71f.js"
   ]
 }
