@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.816e74ab.css",
-    "main.js": "./static/js/main.a8eaea97.js",
+    "main.css": "./static/css/main.a21f78c0.css",
+    "main.js": "./static/js/main.f0656ed9.js",
     "static/media/Capa.png": "./static/media/Capa.926b621fd297dce433d9.png",
     "static/media/Capa-ignite-feed.png": "./static/media/Capa-ignite-feed.89ae173191e0b54c5e8b.png",
     "static/media/perfil.jpg": "./static/media/perfil.d3429b58c54abacaccf2.jpg",
     "static/media/Profile.pdf": "./static/media/Profile.2d974726313ca15cdadc.pdf",
     "static/media/Capa-pomodoro.png": "./static/media/Capa-pomodoro.7bc4af35ff1e15cf715b.png",
     "index.html": "./index.html",
-    "main.816e74ab.css.map": "./static/css/main.816e74ab.css.map",
-    "main.a8eaea97.js.map": "./static/js/main.a8eaea97.js.map"
+    "main.a21f78c0.css.map": "./static/css/main.a21f78c0.css.map",
+    "main.f0656ed9.js.map": "./static/js/main.f0656ed9.js.map"
   },
   "entrypoints": [
-    "static/css/main.816e74ab.css",
-    "static/js/main.a8eaea97.js"
+    "static/css/main.a21f78c0.css",
+    "static/js/main.f0656ed9.js"
   ]
 }
